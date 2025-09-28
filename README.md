@@ -1,9 +1,13 @@
-# 📱 Simple Calculator
+# 📱 Mini Calculator
 
 A clean, modern, and fully responsive calculator built with HTML, CSS, and vanilla JavaScript. This project provides standard arithmetic operations in a user-friendly interface that works seamlessly across all devices, from mobile phones to desktops.
 
 
 [![image.png](https://i.postimg.cc/cHCGfLx3/image.png)](https://postimg.cc/3ysqT7Dr)
+
+---
+live Demo = https://mini-calculator-kappa.vercel.app/
+---
 
 ## ✨ Features
 
